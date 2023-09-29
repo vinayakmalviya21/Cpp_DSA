@@ -184,23 +184,5 @@ int main(){
     }
 
 
-
-    // & H.W.
-
-    // ~ 1.  Sort 0's,1's,2's
-    // ~ 2.  Find duplicate element of array
-    // ~ 3.  Find common element in 3 arrays
-    // ~ 4.  Find missing element 
-    // ~ 5.  Find first repeating element
-    // ~ 6.  Rotate by 90 degree
-    // ~ 7.  Spiral print
-    // ~ 8.  Wave print
-    
-
-
-    
-
-
-
     return 0;
 }
