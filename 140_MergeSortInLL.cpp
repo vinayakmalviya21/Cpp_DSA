@@ -94,6 +94,7 @@ Node *mergeSort(Node* head){
 int main() {
 
     // * Merge Sort in Linked List 
+    // ! Find mid and then Break into two halves then recursively sort left/right dono half ko and last m merge krdo left/right sorted halves ko
 
     Node *head = new Node(30);
     head->next = new Node(20);
